@@ -6,8 +6,6 @@
 
 阅读文章和观看教程会有所帮助。不过，有什么方法能比实际动手做更好？本项目旨在指导初学者及简化初学者参与开源的方式。记住：过程越轻松，学 xi 效益越高。如果你想要做出第一次贡献，只需按照以下简单步骤操作即可。我们答应你，这将很好玩 :)
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/firstcontributions/first-contributions/master//assets/fork.png" alt="fork this repository" />
-
 ## 准备
 
 ### 账号
@@ -76,6 +74,9 @@
 - 查看其他人提交的代码
 - 编写有关如何使用项目的教程
 - 提供指导另一个贡献者，
+
+## 其他说明
+有一些开发者说明请到 https://github.com/TechXueXi/techxuexi-readme 查看，但说明不完善。加入开发组后登录可见。 加入说明： https://github.com/TechXueXi/TechXueXi/issues/2
 
 ## 有疑问？
 遇到问题，请试着按如下步骤解决：
@@ -175,8 +176,6 @@ git push origin <分支的名称>
 不久之后，我便会把你所有的变化合并到这个项目的主分支。更改合并后，你会收到电子邮件通知。
 
 ### [ 更多资料 ](../additional-material/git_workflow_scenarios/additional-material.md)
-
-
 
 
 
